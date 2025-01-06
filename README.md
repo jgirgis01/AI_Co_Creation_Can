@@ -62,13 +62,5 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a res
 
 ### **Contact**
 For questions or support, contact us via:
-- Email: [Insert Email]
-- Community Slack: [Insert Slack Link]
-- Social Media: [Insert Links]
-
----
-
-### **Acknowledgments**
-We’d like to thank:
-- [Name/Organization] for their support in developing this project.
-- [Name/Organization] for their contributions to educational materials.
+- Email: queering.ai.canada@gmail.com
+- Social Media: queering_ai (instagram)
