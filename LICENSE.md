@@ -1,3 +1,11 @@
+## **About CC0 License**
+
+The **CC0 (Creative Commons Zero)** license allows creators to waive all rights to their work and place it in the public domain. By using this license, we give up any claims to copyright or related rights, meaning anyone can freely use, modify, distribute, and share this document without asking for permission.
+
+- *No copyright protection:** Works licensed under CC0 are not subject to copyright and are free to be used without restriction.
+- *No attribution required:** Unlike other Creative Commons licenses, CC0 does not require users to give credit to the original creator, although we encourage respectful and reasonable use.
+- *Free to use in any way:** CC0 enables anyone to copy, modify, distribute, and perform the work, even for commercial purposes, without asking for permission.
+
 ## Attribution 4.0 International
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
