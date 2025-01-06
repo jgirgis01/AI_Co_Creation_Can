@@ -38,7 +38,7 @@ Queer in AI prioritizes the safety of marginalized people over the comfort of pr
 
 If you are being harassed, notice harassment, or have any concerns, please contact [Jackie](mailto:queering.ai.canada@gmail.com).
 
-In cases of harassment by Jackie, or if you'd prefer to handle matters outside Queer in AI, you can contact our parent organization, [oSTEM](mailto:beaware@ostem.org).
+In cases of harassment by Jackie, or if you'd prefer to handle matters outside this project, you can contact the funder, [Digital Research Alliance of Canada](https://alliancecan.ca/en)).
 
 If you are being harassed outside of project spaces, we still want to hear from you. We take harassment seriously, even if it occurs outside of our spaces or at a different time.
 
