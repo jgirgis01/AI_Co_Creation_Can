@@ -54,4 +54,4 @@ This Code of Conduct is a living document and will be revised annually by the co
 
 ## **License**
 
-This policy is licensed under the **Creative Commons Zero (CC0)** license, allowing you to use, modify, and share it freely.
+This policy is licensed under the **Creative Commons Zero (CC0)** license, allowing you to use, modify, and share it freely. More info can be found here: (LICENSE.md
