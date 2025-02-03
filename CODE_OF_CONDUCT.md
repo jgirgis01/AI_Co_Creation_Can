@@ -4,7 +4,7 @@ This Code of Conduct is adapted from [Queer in AI](https://www.queerinai.com/cod
 
 ## **Our Commitment**
 
-The Queering AI Co-Creation Project is dedicated to fostering a safe and inclusive environment for all participants. We do not tolerate harassment of participants in any form. This code applies to all spaces, both online and offline. Any person who violates this code of conduct may be sanctioned or expelled at the discretion of the Queer in AI Safety Team.
+The Queering AI Co-Creation Project is dedicated to fostering a safe and inclusive environment for all participants. We do not tolerate harassment of participants in any form. This code applies to all spaces, both online and offline. Any person who violates this code of conduct may be sanctioned or expelled at the discretion of the co-creation project team.
 
 Our project is centered around the experiences of 2SLGBTQIA+ people. We aim to co-create a project that addresses issues in AI impacting the queer community, acknowledging that queer identities are multifaceted and intersectional.
 
@@ -32,7 +32,7 @@ We are committed to providing a harassment-free experience for everyone, regardl
 - Threats of violence or incitement of violence.
 - Harassment through sustained disruption, stalking, or inappropriate social contact.
 
-Queer in AI prioritizes the safety of marginalized people over the comfort of privileged individuals. We will not act on complaints regarding "reverse"-isms (e.g., reverse racism, reverse sexism) or reasonable communication of boundaries.
+The queering AI co-creation project prioritizes the safety of marginalized people over the comfort of privileged individuals. We will not act on complaints regarding "reverse"-isms (e.g., reverse racism, reverse sexism) or reasonable communication of boundaries.
 
 ## **Reporting Harassment**
 
