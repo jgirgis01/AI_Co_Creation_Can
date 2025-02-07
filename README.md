@@ -18,6 +18,7 @@ This project is structured in three key parts:
 
 1. **Initial Meetings & Discussions**: We will gather 2SLGBTQIA+ individuals to discuss what topics are important in terms of AI, how it impacts their lives, and how to structure a training program that reflects these concerns.
 2. **Training Delivery**: The second phase focuses on delivering a comprehensive training program that will address the topics identified during the meetings, providing participants with valuable knowledge and skills on understanding AI and its impacts.
+      * The meeting on February 5, 2025 was recorded. The presentation and video of the recording can be found here! https://doi.org/10.5281/zenodo.14834986
 3. **Co-Creation of a Project**: In the final phase, participants will collaborate to co-create a project that incorporates their insights, addressing AI's impact from a queer perspective and offering practical tools or solutions.
 
 ---
